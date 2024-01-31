@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("https://img.freepik.com/free-vector/minimal-elegant-presentation-backdrop-banner-sleek-display_1017-42664.jpg?w=740&t=st=1706698624~exp=1706699224~hmac=7173b7221af99a1f8933ce45696a6175bbb164dfabd798a35e16002a14935858");
+}
+
+header {
+  background: #e48e8e;
+  color: #fff;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+section {
+  padding: 50px;
+}
+
+section h2 {
+  margin-bottom: 20px;
+}
+
+.btn {
+  display: inline-block;
+  background: #333;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.product {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+img{
+  height: 300px;
+  width: 300px;
+}
